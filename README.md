@@ -25,3 +25,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudeepa99&show_icons=true&locale=en&layout=compact" alt="sudeepa99" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudeepa99&show_icons=true&locale=en" alt="sudeepa99" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilini-shashikala-gnanarathne&show_icons=true&locale=en&layout=compact" alt="dilini-shashikala-gnanarathne" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilini-shashikala-gnanarathne&show_icons=true&locale=en" alt="dilini-shashikala-gnanarathne" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilini-shashikala-gnanarathne&" alt="dilini-shashikala-gnanarathne" /></p>
+
+**Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{Dilini-Shashikala-Gnanarathne}/count.svg)
