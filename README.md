@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudeepa</h1>
-<h3 align="center">A passionate Frontend development and Mobile App developer from Sri Lanka</h3>
+<h3 align="center">A passionate Software Engineer || Full Stack Developer || Frontend Developer and Mobile App Developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudeepa99&label=Profile%20views&color=0e75b6&style=flat" alt="sudeepa99" /> </p>
 
