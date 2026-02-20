@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudeepa99" alt="sudeepa99" /></a> </p>
 
-- 🔭 I’m currently working on [Stock Management System for a Tea Factory.](https://github.com/sudeepa99/Stock-Management-System)
+- 🔭 I’m currently working on [Library Management System.](https://github.com/sudeepa99/library_mangement_system_frontend)
 
-- 🌱 I’m currently learning **Springboot and ReactJs**
+- 🌱 I’m currently learning **NodeJS and NextJS**
 
 - 📫 How to reach me **sudeepa1234nisal@gmail.com**
 
