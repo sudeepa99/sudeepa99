@@ -68,16 +68,19 @@ Java | Python | C
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="www.linkedin.com/in/sudeepa-nisal" target="blank">
+<a href="https://www.linkedin.com/in/sudeepa-nisal/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-<a href="https://stackoverflow.com/users/user25104811" target="blank">
+
+<a href="https://stackoverflow.com/users/25104811" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
 </a>
-<a href="https://www.behance.net/sudeepanisalvitharana" target="blank">
+
+<a href="https://www.behance.net/sudeepanisalvitharana" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="30" width="40" />
 </a>
-<a href="https://www.hackerrank.com/sudeepanisal" target="blank">
+
+<a href="https://www.hackerrank.com/sudeepanisal" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
 </a>
 </p>
@@ -87,7 +90,7 @@ Java | Python | C
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sudeepa99&show_icons=true&locale=en" />
+<img src="https://github-readme-stats.vercel.app/api?username=sudeepa99&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -95,7 +98,7 @@ Java | Python | C
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sudeepa99&show_icons=true&locale=en&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeepa99&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -111,5 +114,5 @@ Java | Python | C
 ## 👀 Profile Visitors
 
 <p align="center">
-<img src="https://profile-counter.glitch.me/sudeepa99/count.svg" />
+<img src="https://komarev.com/ghpvc/?username=sudeepa99&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
